@@ -1,0 +1,6 @@
+[submodule "Taste-Lab"]
+	path = Taste-Lab
+	url = https://github.com/Taste-Lab/Taste-Lab.git
+[submodule "cloudpsy"]
+	path = cloudpsy
+	url = https://github.com/psygrammer/cloudpsy.git
